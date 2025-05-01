@@ -122,7 +122,7 @@ feel freeee to reach out — I'd love to connect! 💬✨
   <a href="https://github.com/CaptainSkyFish">
     <img align="center"
          height="150em"
-         src="https://streak-stats.demolab.com/?user=CaptainSkyFish&theme=aura&hide_border=true&mode=weekly" />
+         src="https://github-readme-streak-stats-eight.vercel.app/?user=CaptainSkyFish&theme=aura&hide_border=true&mode=weekly" />
   </a>
 </p>
 
