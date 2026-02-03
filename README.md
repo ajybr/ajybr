@@ -119,44 +119,44 @@ feel freeee to reach out — I'd love to connect! 💬✨
 ### 📈 GitHub Activity Graph:
 
 <p align="center">
-  <a href="https://github.com/CaptainSkyFish">
+  <a href="https://github.com/ajybr">
     <img align="center"
          height="150em"
-         src="https://github-readme-streak-stats-eight.vercel.app/?user=CaptainSkyFish&theme=aura&hide_border=true&mode=weekly" />
+         src="https://github-readme-streak-stats-eight.vercel.app/?user=ajybr&theme=aura&hide_border=true&mode=weekly" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CaptainSkyFish">
+  <a href="https://github.com/ajybr">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaptainSkyFish&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajybr&theme=aura"
     />
-  <a href="https://github.com/CaptainSkyFish">
+  <a href="https://github.com/ajybr">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaptainSkyFish&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/CaptainSkyFish">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaptainSkyFish&theme=aura"
-    />
-  <a href="https://github.com/CaptainSkyFish">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CaptainSkyFish&theme=aura&utcOffset=8"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajybr&theme=aura"
     />
 </p>
 
 <p align="center">
- <a href="https://github.com/CaptainSkyFish">
+  <a href="https://github.com/ajybr">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaptainSkyFish&theme=aura"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajybr&theme=aura"
+    />
+  <a href="https://github.com/ajybr">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajybr&theme=aura&utcOffset=8"
+    />
+</p>
+
+<p align="center">
+ <a href="https://github.com/ajybr">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajybr&theme=aura"
     />
 </p>
 
@@ -165,25 +165,25 @@ feel freeee to reach out — I'd love to connect! 💬✨
   <table>
     <tr>
       <td>
-        <a href="https://github.com/CaptainSkyFish/confluence">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaptainSkyFish&repo=confluence&theme=aura&hide_border=true&border_radius=15" />
+        <a href="https://github.com/ajybr/confluence">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajybr&repo=confluence&theme=aura&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/CaptainSkyFish/Carve">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaptainSkyFish&repo=Carve&theme=aura&hide_border=true&border_radius=15" />
+        <a href="https://github.com/ajybr/Carve">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajybr&repo=Carve&theme=aura&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/CaptainSkyFish/PaperTrail">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaptainSkyFish&repo=PaperTrail&theme=aura&hide_border=true&border_radius=15" />
+        <a href="https://github.com/ajybr/PaperTrail">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajybr&repo=PaperTrail&theme=aura&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/CaptainSkyFish/sudokuSolver">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaptainSkyFish&repo=sudokuSolver&theme=aura&hide_border=true&border_radius=15" />
+        <a href="https://github.com/ajybr/sudokuSolver">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajybr&repo=sudokuSolver&theme=aura&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -202,7 +202,7 @@ feel freeee to reach out — I'd love to connect! 💬✨
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=CaptainSkyFish&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=ajybr&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
 
