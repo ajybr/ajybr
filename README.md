@@ -1,16 +1,16 @@
-<h1 align="center">Hello there👋, I'm Ajay</h1>
+<h1 align="center">Hello there, I'm Ajay</h1>
 
-I'm currently an undergrad student who loves 🧠 problem-solving, math and 💻 computer science.  
-Most experienced in full-stack web development 🌐 — from crafting slick front-ends to building solid back-ends, 🚀deploying, and all that jazz.
+I'm currently an undergrad student who loves problem-solving, math and 💻 computer science.  
+Most experienced in full-stack web development — from crafting slick front-ends to building solid back-ends, 🚀deploying, and all that jazz.
 
-📚 Currently Reading:  
+Currently Reading:  
 [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) by Mark Richards & Neal Ford
 
 If you're working on something cool or just want to chat tech,  
-feel freeee to reach out — I'd love to connect! 💬✨
+feel freeee to reach out — I'd love to connect!
 
 
-## My favorite tools and technologies ⚙️
+## My favorite tools and technologies
 
 > Tools and technologies that I have worked with and am interested in
 
