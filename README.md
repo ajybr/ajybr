@@ -1,14 +1,10 @@
-<h1 align="center">Hello there, I'm Ajay</h1>
+<h1 align="center">Hi there, I'm Ajay</h1>
 
-I'm currently an undergrad student who loves problem-solving, math and 💻 computer science.  
-Most experienced in full-stack web development — from crafting slick front-ends to building solid back-ends, 🚀deploying, and all that jazz.
-
-Currently Reading:  
-[Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) by Mark Richards & Neal Ford
+Final year undergrad student who loves problem solving, math and computer science.  
+Most experienced in full-stack web development.
 
 If you're working on something cool or just want to chat tech,  
 feel freeee to reach out — I'd love to connect!
-
 
 ## My favorite tools and technologies
 
@@ -159,7 +155,7 @@ feel freeee to reach out — I'd love to connect!
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajybr&theme=aura"
     />
 </p>
-
+<!--   
 ### Top Repositories
 <div align="center">
   <table>
@@ -188,15 +184,15 @@ feel freeee to reach out — I'd love to connect!
       </td>
     </tr>
     <tr>
-  <!--    <td>
+   <td>
         <a href="https://github.com/CaptainSkyFish/shelf">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=CaptainSkyFish&repo=shelf&theme=aura&hide_border=true&border_radius=15" />
         </a>
       </td>
-      -->
     </tr>
   </table>
 </div>
+      -->
 
 
 <details>
